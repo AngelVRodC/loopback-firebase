@@ -2,5 +2,13 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "firestore-test": {
+    "name": "firestore-test",
+    "connector": "loopback-connector-firestore",
+    "projectId": "fir-loopback-test",
+    "clientEmail": "firebase-adminsdk-z7s8u@fir-loopback-test.iam.gserviceaccount.com",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQClqAxAMvuEhLWz\nkl8INeQRL+9xdQVYNl8dC1SapnGbQb9vNUu8EVtpPkS1yTTPehY89xTY1BXMTI6p\nDqOSvQavkq1j88xG0kDGWVUNnGwYsmHWsy2cdZigrVfqTIQcK2Ji/R0exb1lXhn8\n1FigivZNVftARqxkEM1Bi/sWn9MSGYJWLkqntG1C/GjrR0L1Ty6z5pv0H93lqxOC\n+T9gFkXv9N7LZgWQH0twDDwl6dDLpdFR59TTmPaYOYi4h7zE3Llk/q38CHpsLMPS\nprAIla+mL5LOxkHYwTl+17JRTp6CIDPUoIWK3J41zEuy/wkW2uUc2funvp1/bU1N\n58Hd3O1LAgMBAAECggEAHcmUflzMhl04sRQSW48ZNg/5Dd09e0m3m6jkazSfvAu8\nCRq7xhMW7VtBjrCh+ubYpdjGGmE0lDp18qdLuYCc+ag13oHBy0BWXnREy4BDncNB\nvZIVkwtASTAyXVKp9MjGVcdu25AyCM69fI2QbDngpTJfTgUHTa0Jw44QtdZCZX//\nq/r5wmgtH7P9u8X+OUuQ/xyfrScuGVlyHGHzcLdo71tuzfAkiaE3QeeeX8aoJx/W\n+B+nq44oaEJ905DvBmLoKf0/72TOScLbzy1Fw6E05YQ/NZ7uNEiX+oz23CaixsCv\ntYZ3FxgjEBiivyJN73IrhAb6DrXvvRehM1JvRe3lBQKBgQDUVw4jsG4NfkmJxpa/\n7rQR7c9AZw1gkiJkgUQgoG6//C2mfu95zCBPUrBx3A0R7J+yu6rK0sPV2aDb+G2J\nuccTqiHexUbR81jZ6ve/dr71qwYa4KbCsRN5Y61a23Yaof/2P5v9mXzkjCMVotaz\ndwk+swUQ6nh9kcHW32DbUwKDNwKBgQDHt7TgaSPHYYdW2DqY1HN19J7JRSu0e0Pg\nHcMSBqOWiEWPW7QGGy1277sr+y3lJEzWkEXMUKBiWeN/1f5yGXpS2KtCh5sd4sJO\nKHBuiQUKUgfsLNt5OEeiNiWsTHwB5Uk7yQqkx4pdbkaOu31Cw01KNvz2WLHJiJqy\nVdBHwf6YjQKBgC1jooEcgJnfyeZqjeTfKJzAgdHZdXGUK0fineZ/hM0DIdr6PUSC\nztFF8rOT/zM6qnRxSzPp07TNvWXn97o9/QEGGBFfiCDu7KpAYM8Lmgw3j6mFJgBu\nC6SiGvdV/Cv7PxSrSjPucFUGY6WHVm+sXUyKxeV0yWbGFnJQ84pOdzYHAoGAMM3c\nnoYy3xMfLoKydwxblrSLZOXJU1ZX9NlxBOOocC2myex/5ooXpxvYIlxED926BSjG\nVbJSLxaGOIQDpMBDGyGlYCGhL0FteAn7x5cmKyp2kyk3DL1LDAGtXRhnqVLtfXWY\na0HztvcuuMxqRLlTFtKvKEfuUjBWlUPRHOf0HjUCgYBQb9lLqGga2NxxQMXDXHtb\neAgsREVDbY/H8UxXygcYwllQcGwLpw1D4xCQEo2I3gk10KJsHq0ydbV+NieoCWrw\n6cONmxVdTUVXBRP1X/fmrUbOfOzZ9kJ8aiCIfelXbOkkrsGNFRsHC0RnxYYKE3Zw\n2oC6KEUm3ZbIHC8EXl1W1w==\n-----END PRIVATE KEY-----\n",
+    "databaseName": "fir-loopback-test"
   }
 }
